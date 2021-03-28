@@ -73,3 +73,4 @@ export default NumberScroll;
 //       elem.style.transform = `translate(-50%, -${numberArr[index] * 10}%)`
 //     }
 //   }
+// https://blog.csdn.net/qq_29311407/article/details/79802216
